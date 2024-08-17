@@ -14,15 +14,15 @@ And it saves a row with the paths to those two files in a MySQL database.
 
 ## Features
 
-– Camera Feed: See the camera feed live.
+- **Camera Feed:** See the camera feed live.
 
-- Take Picture: Function — Capture image from the camera feed.
+- **Take Picture:** Function — Capture image from the camera feed.
 
-Save Picture: Capture an image, save it to the local file system and saving its path in MySQL Database.
+- **Save Picture:** Capture an image, save it to the local file system and saving its path in MySQL Database.
 
-1-Take Screenshot: Capture current screen and save it to the local file system, then store path in MySQL DB.
+- **Take Screenshot:** Capture current screen and save it to the local file system, then store path in MySQL DB.
 
-- Exit Key Detection: Press the `q` key to exit application.
+- **Exit Key Detection:** Press the `q` key to exit application.
 
 ## Requirements
 
